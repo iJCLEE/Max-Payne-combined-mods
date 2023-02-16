@@ -1,4 +1,3 @@
-Max-Payne-combined-mods
 I combined Max Payne 2 Kung Fu Evolution with First person mod and now i also combined for Max payne 1 First person and the Kung fu mod 3.0!
 ---------------------------------------
 MAX PAYNE: FPS_MOD 80 FOV & Kung Fu Edition Version 3.0 combined by JCLEE - 16.02.2023
