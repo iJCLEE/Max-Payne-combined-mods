@@ -2,7 +2,7 @@ I combined Max Payne 2 Kung Fu Evolution with First person mod and now i also co
 ---------------------------------------
 MAX PAYNE: FPS MOD 80 FOV & Kung Fu Edition Version 3.0 combined by JCLEE - 16.02.2023
 https://github.com/ijCLEE
-DOWNLOAD LINK: coming soon... 
+DOWNLOAD LINK: https://drive.google.com/file/d/1yB9H9QGiMU5eHwdBzMZj0ZcUe84WH9Yv/view
 ---------------------------------------
 Original creator of FPS MOD 80 FOV by _TheZombieKiller_
 - https://www.moddb.com/mods/first-person-payne - Oct 10 2020
@@ -25,8 +25,6 @@ cannot hope to win.  But this time he's armed with a deadly new weapon.
 MAX PAYNE: Kung Fu Edition 3.
 
 
-
-
 Features:
 ----------------
 - A kung fu fighting system that includes:
@@ -47,20 +45,16 @@ Features:
   fighting system.
 
 
-
-
 Installation and Usage:
 ----------------
-Unzip the KungFu_30.zip file into your Max Payne directory (the directory 
+Unzip the Combined FPS and Kung fu 3.0 mods by JCLEE.zip file into your Max Payne directory (the directory 
 that contains the MaxPayne.exe), and the following files will be created:
-	\KungFu_30.mpm
-	\KungFu_30.txt
+	\FPS Mod 80 FOV + Kung fu 3.0 Mods combined by JCLEE.mpm
+	\README edited by JCLEE.txt
 	\movies\KF3Intro.avi
 
 Run Max Payne, and in the startup window go to "Choose Customized Games" and 
-select KungFu_30 from the drop-down window.
-
-
+select FPS Mod 80 FOV + Kung fu 3.0 Mods combined by JCLEE from the drop-down window.
 
 
 Kung Fu Fighting Basics:
@@ -84,9 +78,6 @@ new skills available to Max, see:
 http://kungfu.maxpayneheadquarters.com/kungfu.html
 
 
-
-
-
 Known Bugs/Problems:
 ----------------
 - On rare occasions during kung fu fighting, Max may become momentarily frozen,
@@ -101,14 +92,11 @@ Known Bugs/Problems:
   later release.
 
 
-
 Credits:
 ----------------
 Introduction video music - "More Human than Human" by White Zombie
 Kung fu theme music - "Shaolin Soccer Opening Theme" by Raymond Wong
 Quality assurance - GutBomb, Maddieman, sd, Jim and Crazy
-
-
 
 
 For questions/comments/suggestions, feel free to leave a message on the message 
