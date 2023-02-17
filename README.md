@@ -2,6 +2,7 @@ I combined Max Payne 2 Kung Fu Evolution with First person mod and now i also co
 ---------------------------------------
 MAX PAYNE: FPS MOD 80 FOV & Kung Fu Edition Version 3.0 combined by JCLEE - 16.02.2023
 https://github.com/ijCLEE
+- Example video: https://www.youtube.com/watch?v=JVMV-g7I6hg
 - DOWNLOAD LINK: https://drive.google.com/file/d/1yB9H9QGiMU5eHwdBzMZj0ZcUe84WH9Yv/view
 ---------------------------------------
 Original creator of FPS MOD 80 FOV by _TheZombieKiller_
